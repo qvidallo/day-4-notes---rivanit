@@ -1,0 +1,55 @@
+Login VM
+Login: root
+Pass: C1sc0123				208.8.8.144
+
+Get the IP address
+
+!@SOC-IR
+ip -4 addr
+
+Odoo
+http://208.8.8.144:8069
+user: itil@rivanschool.com
+pass: C1sc0123
+
+
+Service Management
+http://208.8.8.144/otrs/index.pl
+user: root@localhost
+pass: C1sc0123
+
+
+Customer Management
+http://208.8.8.144/otrs/customer.pl
+user: user1
+pass: C1sc0123
+
+
+208.8.8.144/24
+
+
+Task1: How to apply, jobinterviewd, accepted for SOC analyst, engineer Jobs EVEN IF UR NOT QUALIFIED: The ultimate hack
+
+msp
+soc - cyber sec
+trustwave (soc company - cyber sec)
+
+SLA (service level agreement)
+
+mitigating - service now> used for cyber sec
+
+C:\Users\Administrator>nmap -sP 27.49.36.0/24 -- ilan meron computer
+
+set-netfirewallprofile -name public,private,domain -enabled false
+IAM - identity and 
+
+[storage backup (CLOUD)
+veeam
+veritas]
+
+windows server backup
+-full (
+-incremental (
+
+raid 1 
+raid 5 << data base
